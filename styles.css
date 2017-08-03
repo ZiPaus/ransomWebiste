@@ -1,0 +1,53 @@
+body {
+	background-color: #ffb3ff;
+	text-align: center;
+	color: white;
+}
+
+#page {
+	text-align: center;
+	width: 800px;
+	margin: 0 auto;
+}
+
+
+#header {
+
+}
+
+#main {
+
+}
+
+#footer {
+	position: fixed;
+	bottom: 0px;
+	left: 15px;
+}
+
+.headerH1 {
+	font-family: 'Roboto', sans-serif;
+	font-style: normal;
+	font-size: 5em;
+	margin-bottom: 0px;
+}
+
+.headerH2 {
+	font-family: 'Roboto', sans-serif;
+	font-weight: 100;
+	font-size: 1.7em;
+}
+
+.button {
+	height: 5em;
+	width: 15em;
+	border-radius: 10px;
+	color: #ffb3ff;
+	background-color: white;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 400;
+}
+
+#storyInput {
+	
+}
